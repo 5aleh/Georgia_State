@@ -1,2 +1,2 @@
 # Georgia_State
-Arduino Controlled Light System Code
+Arduino Controlled Algae Light System
